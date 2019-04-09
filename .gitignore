@@ -1,3 +1,7 @@
 
 data/Pneumothorax.h5
 saved_model/model.h5
+*.local
+*.local
+*.local
+logs/events.out.tfevents.1554785254.nens-MacBook-Pro.local
